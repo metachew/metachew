@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @metachew
 - 👀 I’m interested in ... the metaverse
 - 🌱 I’m currently learning ... front-end web development and 3D modeling
-- 💞️ I’m looking to collaborate on ... innovative projects
+- 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ... matt.auknowledge@gmail.com
